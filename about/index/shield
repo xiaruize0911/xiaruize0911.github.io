@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="204.45499999999998" height="19" role="img">
+      <title>xiaruize</title>
+      <g>
+        <rect width="53.455099999999995" height="19" fill="#fff"/>
+        <rect x="53.455099999999995" width="13.6923" height="19" fill="#bfbfbf"/><rect x="67.14739999999999" width="21.3846" height="19" fill="#fe4c61"/><rect x="88.53199999999998" width="21.3846" height="19" fill="#f39c11"/><rect x="109.91659999999999" width="21.3846" height="19" fill="#ffc116"/><rect x="131.3012" width="21.3846" height="19" fill="#52c41a"/><rect x="152.6858" width="21.3846" height="19" fill="#3498db"/><rect x="174.0704" width="13.6923" height="19" fill="#9d3dcf"/><rect x="187.7627" width="13.6923" height="19" fill="#0e1d69"/>
+      </g>
+      <g fill="#fff" font-family="Verdana, Microsoft Yahei" text-rendering="geometricPrecision" font-size="11">
+        <text x="3" y="14" fill="#5eb95e" textLength="47.455099999999995">xiaruize</text>
+        
+        <text x="56.455099999999995" y="14" fill="#fff" textLength="7.6923">3</text><text x="70.14739999999999" y="14" fill="#fff" textLength="15.3846">46</text><text x="91.53199999999998" y="14" fill="#fff" textLength="15.3846">49</text><text x="112.91659999999999" y="14" fill="#fff" textLength="15.3846">55</text><text x="134.3012" y="14" fill="#fff" textLength="15.3846">35</text><text x="155.6858" y="14" fill="#fff" textLength="15.3846">30</text><text x="177.0704" y="14" fill="#fff" textLength="7.6923">6</text><text x="190.7627" y="14" fill="#fff" textLength="7.6923">1</text>
+      </g>
+    </svg>

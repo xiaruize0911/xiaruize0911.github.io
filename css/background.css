@@ -1,0 +1,45 @@
+@keyframes gradientBG {
+    0% {
+        background-position: 0% 50%;
+    }
+    50% {
+        background-position: 100% 50%;
+    }
+    100% {
+        background-position: 0% 50%;
+    }
+}
+#web_bg {
+    background: linear-gradient(-45deg, #ee7752, #e73c7e, #23a6d5, #23d5ab);
+    background-size: 400% 400%;
+    animation: gradientBG 15s ease infinite;
+}
+
+/* 首页文章卡片 */
+#recent-posts > .recent-post-item{
+    background:rgba(255, 255, 255, 0.8);
+}
+/* 首页侧栏卡片 */
+.card-widget{
+  background:rgba(255, 255, 255, 0.8)!important;
+}
+/* 文章页面正文背景 */
+div#post{
+  background: rgba(255, 255, 255, 0.8);
+}
+/* 分页页面 */
+div#page{
+  background: rgba(255, 255, 255, 0.8);
+}
+/* 归档页面 */
+div#archive{
+  background: rgba(255, 255, 255, 0.8);
+}
+/* 标签页面 */
+div#tag{
+  background: rgba(255, 255, 255, 0.8);
+}
+/* 分类页面 */
+div#category{
+  background: rgba(255, 255, 255, 0.8);
+}

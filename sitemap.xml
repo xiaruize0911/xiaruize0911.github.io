@@ -334,6 +334,20 @@
   </url>
   
   <url>
+    <loc>https://xiaruize0911.github.io/tags/OI/</loc>
+    <lastmod>2022-06-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://xiaruize0911.github.io/tags/knowledge/</loc>
+    <lastmod>2022-06-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://xiaruize0911.github.io/tags/Codeforces/</loc>
     <lastmod>2022-06-05</lastmod>
     <changefreq>weekly</changefreq>
@@ -363,20 +377,6 @@
   
   <url>
     <loc>https://xiaruize0911.github.io/tags/Blog/</loc>
-    <lastmod>2022-06-05</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://xiaruize0911.github.io/tags/OI/</loc>
-    <lastmod>2022-06-05</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://xiaruize0911.github.io/tags/knowledge/</loc>
     <lastmod>2022-06-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -420,7 +420,28 @@
   </url>
   
   <url>
+    <loc>https://xiaruize0911.github.io/categories/CSP/</loc>
+    <lastmod>2022-06-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://xiaruize0911.github.io/categories/Codeforces/</loc>
+    <lastmod>2022-06-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://xiaruize0911.github.io/categories/Atcoder/Atcoder-Beginner-Contest/ABC-244-Tutorial/</loc>
+    <lastmod>2022-06-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://xiaruize0911.github.io/categories/Atcoder/Atcoder-Beginner-Contest/ABC-235-Tutorial/</loc>
     <lastmod>2022-06-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -435,27 +456,6 @@
   
   <url>
     <loc>https://xiaruize0911.github.io/categories/Blog/</loc>
-    <lastmod>2022-06-05</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://xiaruize0911.github.io/categories/Atcoder/Atcoder-Beginner-Contest/ABC-235-Tutorial/</loc>
-    <lastmod>2022-06-05</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://xiaruize0911.github.io/categories/CSP/</loc>
-    <lastmod>2022-06-05</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://xiaruize0911.github.io/categories/Atcoder/Atcoder-Beginner-Contest/ABC-244-Tutorial/</loc>
     <lastmod>2022-06-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>

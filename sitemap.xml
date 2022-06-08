@@ -2,6 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://xiaruize0911.github.io/ABC-254-Tutorial/</loc>
+    
+    <lastmod>2022-06-08</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://xiaruize0911.github.io/ABC-253-Tutorial/</loc>
+    
+    <lastmod>2022-06-08</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://xiaruize0911.github.io/Codeforces-Round-797-Div-3-Tutorial/</loc>
     
     <lastmod>2022-06-08</lastmod>
@@ -95,15 +113,6 @@
     <loc>https://xiaruize0911.github.io/Binary-Search/</loc>
     
     <lastmod>2022-06-05</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://xiaruize0911.github.io/ABC-253-Tutorial/</loc>
-    
-    <lastmod>2022-05-28</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -329,20 +338,6 @@
   </url>
   
   <url>
-    <loc>https://xiaruize0911.github.io/tags/Atcoder-Regular-Contest/</loc>
-    <lastmod>2022-06-08</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://xiaruize0911.github.io/tags/ARC138/</loc>
-    <lastmod>2022-06-08</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://xiaruize0911.github.io/tags/OI/</loc>
     <lastmod>2022-06-08</lastmod>
     <changefreq>weekly</changefreq>
@@ -372,6 +367,20 @@
   
   <url>
     <loc>https://xiaruize0911.github.io/tags/Codeforces-Div-3/</loc>
+    <lastmod>2022-06-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://xiaruize0911.github.io/tags/Atcoder-Regular-Contest/</loc>
+    <lastmod>2022-06-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://xiaruize0911.github.io/tags/ARC138/</loc>
     <lastmod>2022-06-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -422,13 +431,6 @@
   </url>
   
   <url>
-    <loc>https://xiaruize0911.github.io/categories/Atcoder/Regular/</loc>
-    <lastmod>2022-06-08</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://xiaruize0911.github.io/categories/CSP/</loc>
     <lastmod>2022-06-08</lastmod>
     <changefreq>weekly</changefreq>
@@ -443,7 +445,14 @@
   </url>
   
   <url>
-    <loc>https://xiaruize0911.github.io/categories/Atcoder/Atcoder-Beginner-Contest/ABC-238-Tutorial/</loc>
+    <loc>https://xiaruize0911.github.io/categories/Atcoder/Atcoder-Beginner-Contest/ABC-244-Tutorial/</loc>
+    <lastmod>2022-06-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://xiaruize0911.github.io/categories/Atcoder/Regular/</loc>
     <lastmod>2022-06-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -464,14 +473,14 @@
   </url>
   
   <url>
-    <loc>https://xiaruize0911.github.io/categories/Blog/</loc>
+    <loc>https://xiaruize0911.github.io/categories/Atcoder/Atcoder-Beginner-Contest/ABC-252-Tutorial/</loc>
     <lastmod>2022-06-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://xiaruize0911.github.io/categories/Atcoder/Atcoder-Beginner-Contest/ABC-252-Tutorial/</loc>
+    <loc>https://xiaruize0911.github.io/categories/Blog/</loc>
     <lastmod>2022-06-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -485,7 +494,28 @@
   </url>
   
   <url>
-    <loc>https://xiaruize0911.github.io/categories/Atcoder/Atcoder-Beginner-Contest/ABC-244-Tutorial/</loc>
+    <loc>https://xiaruize0911.github.io/categories/Atcoder/Atcoder-Beginner-Contest/ABC-253-Tutorial/</loc>
+    <lastmod>2022-06-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://xiaruize0911.github.io/categories/Atcoder/Atcoder-Beginner-Contest/ABC-254-Tutorial/</loc>
+    <lastmod>2022-06-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://xiaruize0911.github.io/categories/whk/</loc>
+    <lastmod>2022-06-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://xiaruize0911.github.io/categories/Atcoder/Atcoder-Beginner-Contest/ABC-238-Tutorial/</loc>
     <lastmod>2022-06-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -521,13 +551,6 @@
   
   <url>
     <loc>https://xiaruize0911.github.io/categories/Codeforces/Div-3/Round/</loc>
-    <lastmod>2022-06-08</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://xiaruize0911.github.io/categories/whk/</loc>
     <lastmod>2022-06-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>

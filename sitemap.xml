@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://xiaruize0911.github.io/Graph/</loc>
+    
+    <lastmod>2022-07-18</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://xiaruize0911.github.io/ABC-260-Tutorial/</loc>
     
     <lastmod>2022-07-18</lastmod>
@@ -48,15 +57,6 @@
   
   <url>
     <loc>https://xiaruize0911.github.io/Greedy/</loc>
-    
-    <lastmod>2022-06-05</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://xiaruize0911.github.io/Graph/</loc>
     
     <lastmod>2022-06-05</lastmod>
     

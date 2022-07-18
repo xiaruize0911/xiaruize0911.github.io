@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://xiaruize0911.github.io/ABC-260-Tutorial/</loc>
+    
+    <lastmod>2022-07-18</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://xiaruize0911.github.io/ABC-254-Tutorial/</loc>
     
     <lastmod>2022-06-08</lastmod>
@@ -551,6 +560,13 @@
   
   <url>
     <loc>https://xiaruize0911.github.io/categories/Codeforces/Div-3/Round/</loc>
+    <lastmod>2022-07-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://xiaruize0911.github.io/categories/Atcoder/Atcoder-Beginner-Contest/ABC-260-Tutorial/</loc>
     <lastmod>2022-07-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>

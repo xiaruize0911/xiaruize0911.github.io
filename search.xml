@@ -2700,4 +2700,30 @@ c_i=m_i\cdot m_i^{-1}
         <tag>切比雪夫距离</tag>
       </tags>
   </entry>
+  <entry>
+    <title>Simplifying the Farm</title>
+    <url>/Simplifying-the-Farm/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="usaco11decsimplifying-the-farm-g"><a class="markdownIt-Anchor" href="#usaco11decsimplifying-the-farm-g"></a> [USACO11DEC]Simplifying the Farm G</h1>
+<p>By xiaruize</p>
+<h2 id="题面"><a class="markdownIt-Anchor" href="#题面"></a> 题面</h2>
+<p>求一张竞赛图中最小生成树的方案数</p>
+<h2 id="思路"><a class="markdownIt-Anchor" href="#思路"></a> 思路</h2>
+<p>Kruskal求最小生成树，记录每个长度的边被选择几次</p>
+<p>重新跑Kruskal,对于长度一样的边，dfs检查有多少选法，使结果仍然是最小生成树，乘法原理求结果</p>
+<p><img src="https://i.imgtg.com/2022/12/31/EQ8Mg.png" alt="" /></p>
+<p>例如，在这张图中，对于长度为1的边，本来选定2条，所以只有一种方案</p>
+<p>对于长度为2的边，本来选定1条，dfs检查其它长度为2的边，均可以，答案 <span class="katex"><span class="katex-mathml"><math><semantics><mrow><mo>×</mo><mn>3</mn></mrow><annotation encoding="application/x-tex">\times 3</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.72777em;vertical-align:-0.08333em;"></span><span class="mord">×</span><span class="mord">3</span></span></span></span></p>
+<h2 id="code"><a class="markdownIt-Anchor" href="#code"></a> Code</h2>
+<p><img src="https://i.imgtg.com/2022/12/31/EQwJS.png" alt="" /></p>
+]]></content>
+      <categories>
+        <category>NFLS</category>
+        <category>20221231</category>
+      </categories>
+      <tags>
+        <tag>并查集</tag>
+        <tag>组合计数</tag>
+        <tag>图论</tag>
+      </tags>
+  </entry>
 </search>
